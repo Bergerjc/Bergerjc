@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bergerjc
+- 👀 I’m interested in Smart Legal Contracts
+- 🌱 I’m currently learning something new every day
+- 💞️ I’m looking to collaborate on Cool stuff
+- 📫 How to reach me jcb@hun.it
