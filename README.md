@@ -1,6 +1,7 @@
-👋 Hi, I’m Jan Christian Berger (@Bergerjc)
-👀 Passionate about Smart Legal Contracts and blockchain technology
-🌱 Always learning and exploring new innovations
-💼 Co-founder of Hunit, advancing AI-enabled, no-code platforms for legal tech
-💞️ Open to collaborations on impactful projects
-📫 Reach me at jcb (at) hun.it
+# 👋 Hi, I’m Jan Christian Berger (@Bergerjc)
+
+- 👀 Passionate about **Agentic Agreements** and **Distributed Ledger Technology (DLT)**
+- 🌱 Always learning and exploring new ways to revolutionize **legal tech**
+- 💼 Co-founder of **Hunit**, advancing AI-enabled platforms for self-executing, actionable agreements
+- 💞️ Open to collaborations on transformative and impactful projects
+- 📫 Reach me at **jcb (at) hun.it**
